@@ -1,3 +1,4 @@
+![WhatsApp Image 2022-03-31 at 11 45 04 PM](https://user-images.githubusercontent.com/82234187/161128017-dee74c5b-3de4-42df-a278-142cb4ba4a22.jpeg)
 # OOS-LAB-TASK-2
 ##Hotel Management
 #	Description:
@@ -22,3 +23,4 @@ Our project is Hotel management, in this project owner, manager and the customer
 ###### Costomer
 ###### Staff
 ###### Manager
+# use case Diegram![WhatsApp Image 2022-03-31 at 11 45 04 PM](https://user-images.githubusercontent.com/82234187/161128244-4eea137e-f08c-45af-9ee2-541e661721d6.jpeg)
