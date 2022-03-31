@@ -17,3 +17,8 @@ Our project is Hotel management, in this project owner, manager and the customer
 •	Activities
 ## Domain Model
 #![image](https://user-images.githubusercontent.com/102031122/161119528-1a239cd9-b1ee-4791-87ec-628ffa4f3f22.png)
+## Primary Actor
+###### Owner
+###### Costomer
+###### Staff
+###### Manager
